@@ -62,7 +62,7 @@ Deploy your bot on `heroku`
 
 CLick Button
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/thecyberweapon/SRCB_for-cpy1)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Zooo166/Save-Restricted-Content-Bot)
 
 Changes to make
 add repo link in deploy button - readme file
